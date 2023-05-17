@@ -1,0 +1,2 @@
+"use strict";(self.sharedJsonP=self.sharedJsonP||[]).push([["is-date-object|1.0.5|b2876"],{f4b89:(t,e,r)=>{var o=Date.prototype.getDay,c=Object.prototype.toString,n=r("279c4")();t.exports=function(t){return"object"==typeof t&&null!==t&&(n?function(t){try{return o.call(t),!0}catch(t){return!1}}(t):"[object Date]"===c.call(t))}}}]);
+//# sourceMappingURL=is-date-object~1.0.5~b2876.js.map
